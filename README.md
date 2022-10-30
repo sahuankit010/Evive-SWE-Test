@@ -9,11 +9,14 @@ Install maven
 https://maven.apache.org/download.cgi
 
 Check:
-java -version
+
+Enter these commands in the terminals to check java and maven are installed.
+
+"java -version"
 
 and 
 
-mvn -version
+"mvn -version"
 
 These two commands should show the java version and the maven version. Then we are good to go with running the application.
 
