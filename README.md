@@ -38,7 +38,7 @@ c) Enter this command "mvn install"
 
 d) Enter this command "mvn compile"
 
-e) Enter this command "mvv package"
+e) Enter this command "mvn package"
 
 
 
